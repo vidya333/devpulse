@@ -131,7 +131,7 @@ export default function Dashboard({ data, onBack }) {
 
         <div style={styles.footer}>
           <span style={{ fontFamily: "var(--font-mono)", fontSize: 11, color: "var(--muted)" }}>
-            DevPulse — built with GitHub API + Claude AI
+            DevPulse — built with GitHub API + Groq AI 
           </span>
         </div>
       </div>

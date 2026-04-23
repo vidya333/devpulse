@@ -7,7 +7,7 @@
 
 A real-time GitHub intelligence dashboard. Enter any GitHub username and get a beautiful breakdown of commit patterns, peak coding hours, language stats, top repos, and an AI-generated personality verdict.
 
-**Built with:** MongoDB-free MERN (React + Express + Node) · GitHub Public API · Claude AI
+**Built with:** MongoDB-free MERN (React + Express + Node) · GitHub Public API · Groq AI
 
 ---
 
@@ -157,7 +157,7 @@ devpulse/
 
 ## 📝 Resume Line
 
-> **DevPulse** — Full-stack developer analytics dashboard. Real-time GitHub data visualization with AI-powered personality analysis. Built with React, Node.js/Express, and Claude API. Deployed on Render.
+> **DevPulse** — Full-stack developer analytics dashboard. Real-time GitHub data visualization with AI-powered personality analysis. Built with React, Node.js/Express, and Groq API. Deployed on Render.
 
 ---
 
