@@ -1,3 +1,8 @@
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-00ff88?style=for-the-badge)]
+(https://devpulse-y0w9.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)]
+(https://github.com/vidya333/devpulse)
+
 # ⚡ DevPulse — Your GitHub, Decoded
 
 A real-time GitHub intelligence dashboard. Enter any GitHub username and get a beautiful breakdown of commit patterns, peak coding hours, language stats, top repos, and an AI-generated personality verdict.
