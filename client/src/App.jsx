@@ -28,8 +28,9 @@ export default function App() {
     }, 1200);
 
     try {
-      const { data: ghData } = await axios.get(`/api/github/${username}`);
-      const { data: roastData } = await axios.post("/api/roast", ghData);
+      const BASE = import.meta.env.VITE_API_URL || "";
+      const { data: ghData } = await axios.get(`${BASE}/api/github/${username}`);
+      const { data: roastData } = await axios.post(`${BASE}/api/roast`, ghData);
       clearInterval(interval);
       setData({ ...ghData, roast: roastData.roast });
       setView("dashboard");
